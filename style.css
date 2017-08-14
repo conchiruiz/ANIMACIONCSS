@@ -22,7 +22,7 @@
      text-shadow: 2px 2px 2px;
      animation-name: movititu;
      animation-duration: 5s;
-     animation-delay: 3s;
+     animation-delay: 1s;
      animation-iteration-count: infinite;
      animation-direction: alternate;
      animation-timing-function: ease-in;
@@ -38,7 +38,7 @@
      text-shadow: 2px 2px 2px;
      animation-name: movititu1;
      animation-duration: 5s;
-     animation-delay: 3s;
+     animation-delay: 1s;
      animation-iteration-count: infinite;
      animation-direction: alternate;
      animation-timing-function: ease-in;
@@ -65,7 +65,7 @@
     }   
     to{
         
-    left: 1200px;
+    left: 800px;
     top: 50px;
         
     }   
@@ -80,7 +80,7 @@
     }   
     to{
         
-    left: 0px;
+    left: 20px;
     top: 100px;
         
     }   
